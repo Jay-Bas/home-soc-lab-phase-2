@@ -432,4 +432,4 @@ data.alert.signature_id:*
 
 ---
 
-~This document records a personal training lab exercise conducted entirely within isolated virtual machines for educational purposes.~
+*This document records a personal training lab exercise conducted entirely within isolated virtual machines for educational purposes.*
