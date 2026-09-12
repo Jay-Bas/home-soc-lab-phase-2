@@ -385,7 +385,7 @@ data.alert.signature_id:*
 3. Arrange/resize panels
 4. Save, name: `Suricata IDS Dashboard`
 5. **Check "Store time with dashboard"** — this saves the current time range with the dashboard, so it always opens showing the relevant data instead of defaulting to a narrow window that looks empty
-
+https://github.com/Jay-Bas/home-soc-lab-phase-2/blob/main/IMG_9552.jpeg
 ---
 
 ## Troubleshooting Log
